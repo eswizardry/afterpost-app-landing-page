@@ -1,3 +1,12 @@
+---
+layout: page
+title: Term & Conditions
+include_in_header: false
+---
+
+**Last updated**
+June 16 2024
+
 **Terms & Conditions**
 
 These terms and conditions applies to the After Post - Parcel Tracking app (hereby referred to as "Application") for mobile devices that was created by esWizardry (hereby referred to as "Service Provider") as an Ad Supported service.

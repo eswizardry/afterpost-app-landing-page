@@ -1,3 +1,12 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
+**Last updated**
+June 16 2024
+
 **Privacy Policy**
 
 This privacy policy applies to the After Post - Parcel Tracking app (hereby referred to as "Application") for mobile devices that was created by esWizardry (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
